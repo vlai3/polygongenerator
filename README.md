@@ -10,8 +10,9 @@ easily be able to generate polygons easily.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing
-purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and usage.
+
+If you want to look through and alter the code, download all the files and folders, but if you would just like to use the application and do not want or need to alter the code, just download the ```dist``` folder; currently the executable for this application that appears in the ```dist``` folder works for Windows.
 
 ### Prerequisites
 
@@ -21,7 +22,7 @@ The prerequisites for installing the software is included in the ```requirements
 
 An executable file is included to be able to easily run the polygon generator. To run GUI (on Windows), download the
 ```dist``` folder. Then navigate into the ```polygon_generator_gui``` folder, then run the
-```polygon_generator_gui.exe``` file.
+```polygon_generator_gui.exe``` file. Note that running this executable fike works for only on Windows.
 
 From the GUI it is possible to customize the kind of polygon to generate, and to see a sample of the polygon that will
 be drawn before selecting the number to generate and the location to generate the image files.
