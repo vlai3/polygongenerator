@@ -1,0 +1,5 @@
+opencv_python
+numpy
+pyqt5
+pyqt5-tools
+pyinstaller

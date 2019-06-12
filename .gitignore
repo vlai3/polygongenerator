@@ -1,0 +1,6 @@
+.venv
+.idea
+.git
+
+build/
+polygon_generator_gui.spec
