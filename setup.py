@@ -24,5 +24,5 @@ setup(
     url='TODO',
     install_requires=INSTALL_REQUIRES,
     packages=PACKAGES,
-    license='LICENSE.txt',
+    license='LICENSE',
 )
