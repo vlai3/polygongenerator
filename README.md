@@ -8,6 +8,8 @@ the image to be generated.
 In addition to having a module for generating polygons, there is also one for creating a graphical user interface to
 easily be able to generate polygons easily.
 
+To see samples of generated polygons, check out the ```test_generated_polygons``` folder.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and usage.
